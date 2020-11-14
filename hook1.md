@@ -239,13 +239,9 @@ export default function ComplexHookState() {
         }
 ```
 
-<center>补充知识: </center>
+------
 
-```react
- function useState<S>(initialState: S | (() => S)): [S, Dispatch<SetStateAction<S>>];
-```
-
-<S>是泛型，传入的参数：initialState（可以传S泛型或者箭头函数，返回S）
+**补充知识:** 
 
 修改下**传入的参数为函数**：
 
