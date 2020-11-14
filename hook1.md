@@ -96,7 +96,7 @@ export default function MultiHookState() {
 }
 ```
 
-![](C:\Users\Administrator\Desktop\clone\react的md笔记\hookimages\1.png)
+![](https://github.com/asteryxxx/StudyReactNotes/blob/main/hookimages/1.png)
 
 ------
 
